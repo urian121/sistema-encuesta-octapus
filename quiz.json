@@ -1,0 +1,71 @@
+{
+  "titulo": "Encuesta – Opinión sobre el portal web",
+  "preguntas": [
+    {
+      "id": 1,
+      "pregunta": "¿Qué tan satisfecho estás con la experiencia actual del portal web?",
+      "opciones": [
+        { "letra": "a", "texto": "Muy satisfecho" },
+        { "letra": "b", "texto": "Satisfecho" },
+        { "letra": "c", "texto": "Neutral" },
+        { "letra": "d", "texto": "Insatisfecho" }
+      ]
+    },
+    {
+      "id": 2,
+      "pregunta": "¿Consideras que el diseño actual del portal debería renovarse?",
+      "opciones": [
+        { "letra": "a", "texto": "Sí" },
+        { "letra": "b", "texto": "No" },
+        { "letra": "c", "texto": "No estoy seguro" }
+      ]
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cómo describirías el diseño actual del portal?",
+      "opciones": [
+        { "letra": "a", "texto": "Moderno" },
+        { "letra": "b", "texto": "Funcional pero desactualizado" },
+        { "letra": "c", "texto": "Poco atractivo" },
+        { "letra": "d", "texto": "Difícil de usar" },
+        { "letra": "e", "texto": "Otro" }
+      ]
+    },
+    {
+      "id": 4,
+      "pregunta": "Si el portal cambiara, ¿qué te gustaría mejorar principalmente?",
+      "opciones": [
+        { "letra": "a", "texto": "Diseño visual" },
+        { "letra": "b", "texto": "Velocidad" },
+        { "letra": "c", "texto": "Navegación" },
+        { "letra": "d", "texto": "Experiencia móvil" },
+        { "letra": "e", "texto": "Funcionalidades" },
+        { "letra": "f", "texto": "Otro" }
+      ]
+    },
+    {
+      "id": 5,
+      "pregunta": "En una escala del 1 al 5, ¿qué tan importante consideras una renovación del portal?",
+      "tipo": "escala",
+      "opciones": [
+        { "letra": "a", "texto": "1" },
+        { "letra": "b", "texto": "2" },
+        { "letra": "c", "texto": "3" },
+        { "letra": "d", "texto": "4" },
+        { "letra": "e", "texto": "5" }
+      ]
+    },
+    {
+      "id": 6,
+      "pregunta": "Revisa esta propuesta para el nuevo portal https://web-octapus.vercel.app y comparte tu opinión",
+      "url": "https://web-octapus.vercel.app",
+      "opciones": [
+        { "letra": "a", "texto": "Muy positiva" },
+        { "letra": "b", "texto": "Positiva" },
+        { "letra": "c", "texto": "Neutral" },
+        { "letra": "d", "texto": "Poco positiva" },
+        { "letra": "e", "texto": "Negativa" }
+      ]
+    }
+  ]
+}
