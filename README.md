@@ -2,7 +2,13 @@
 
 Encuesta de opinión sobre el portal web de Octapus.io, construida con Next.js (App Router) y Tailwind CSS. Las preguntas se cargan desde un archivo JSON, las respuestas se almacenan en el servidor y los resultados se visualizan con gráficas interactivas.
 
-![Demo](demo.png)
+
+## 📸 Vista previa
+
+<p align="center">
+  <img src="./demo/home-encuesta.png" alt="Home de la encuesta" width="45%" />
+  <img src="./demo/fin-encuesta.png" alt="fin de la encuesta" width="45%" />
+</p>
 
 ## Características
 
